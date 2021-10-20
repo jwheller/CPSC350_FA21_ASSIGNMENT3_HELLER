@@ -1,0 +1,2 @@
+# CPSC350_FA21_ASSIGNMENT3_HELLER
+Game of Life Assignment
