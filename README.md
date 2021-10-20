@@ -19,6 +19,9 @@ Classes:
 -Simulation: Class that combines the Cell and ArrayBoard classes and handles the simulation
 -main
 
+Issues:
+
+Didn't get the special game modes to work in time.
 
 Resources: 
 
